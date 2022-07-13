@@ -27,6 +27,8 @@
 * [Technologies](#computer-technologies)
 * [Features](#rocket-features)
 * [How to Run](#construction_worker-how-to-run)
+* [Author](#author)
+* [License](#license)
 
 ### Web Screenshot
 <div>
@@ -62,6 +64,15 @@ $ yarn start
 
 Go to http://localhost:3000/ to see the result.
 
-Made with ❤︎ by [Gabriel Moraes](https://github.com/gmorae) 🚀.
+<h2 id="author"> 💻 Author </h2>
 
-Give a ⭐️ if this project helped you!
+<img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/71350840?s=400&u=02afaa6318aee076b5e3a398e531296a7fb30dc0&v=4" width="100px;" alt=""/>
+
+By Ana Torres 👋🏽 Find me:
+
+[![Linkedin Badge](https://img.shields.io/badge/-anabrtorres-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anabrtorres/)](https://www.linkedin.com/in/anabrtorres/)
+[![Gmail Badge](https://img.shields.io/badge/-anabrtorres19@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anabrtorres19@gmail.com)](mailto:anabrtorres19@gmail.com)
+
+<h2 id="license"> 📝 License </h2>
+
+This project is under the MIT license.
